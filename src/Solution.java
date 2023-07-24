@@ -15,3 +15,8 @@ class Solution {
 		return highDif;
 	}
 }
+
+
+
+
+//leetcode problem 121
