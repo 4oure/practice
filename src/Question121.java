@@ -1,4 +1,4 @@
-class Solution {
+class Question121 {
 	public int maxProfit(int[] prices) {
 		if(prices.length < 2)
 			return 0;
